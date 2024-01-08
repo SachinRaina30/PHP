@@ -1,3 +1,4 @@
 # PHP
-\This is my new Git Repository
+This is my new Git Repository
+<br>
 Author: By Sachin
